@@ -80,6 +80,7 @@
 		3082DF9228AC033E007F29F3 /* Common */ = {
 			isa = PBXGroup;
 			children = (
+				3082DF9728AC1098007F29F3 /* MagnificationType.swift */,
 				3082DF8628AC02ED007F29F3 /* ContentView.swift */,
 				3082DF8828AC02F3007F29F3 /* Assets.xcassets */,
 				3082DF8428AC02ED007F29F3 /* MagnificationApp.swift */,
@@ -99,7 +100,6 @@
 		3082DF9428AC0FA4007F29F3 /* Magnification */ = {
 			isa = PBXGroup;
 			children = (
-				3082DF9728AC1098007F29F3 /* MagnificationType.swift */,
 				3082DF9928AC1340007F29F3 /* MagnificationView.swift */,
 				30A141F828AEB8D90081736B /* AnimationModifier.swift */,
 			);
