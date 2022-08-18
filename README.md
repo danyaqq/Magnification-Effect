@@ -1,4 +1,4 @@
-# Magnification-Effect
+# Magnification Effect
 
 > Тестовое приложение для демонстрации работы с жестами и анимацией в SwiftUI
 
